@@ -1,0 +1,4 @@
+GND -> GND
+VCC -> 5V
+ECHO -> 8
+Trigger -> 9
